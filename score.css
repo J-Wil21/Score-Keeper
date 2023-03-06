@@ -1,0 +1,13 @@
+.container{
+    background-color: #ccd5ae;
+}
+.box{
+    background-color: #fefae0;
+}
+
+
+p{ display: inline;}
+
+.inline{
+    display: inline;
+}
