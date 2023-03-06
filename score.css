@@ -1,13 +1,15 @@
-.container{
+.container {
     background-color: #ccd5ae;
 }
-.box{
+
+.box {
     background-color: #fefae0;
 }
 
+p {
+    display: inline;
+}
 
-p{ display: inline;}
-
-.inline{
+.inline {
     display: inline;
 }
